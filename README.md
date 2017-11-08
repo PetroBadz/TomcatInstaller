@@ -30,10 +30,10 @@
  
 ## How to start
 
-- download project
-- open the project in the development environment (ECLIPSE or others)
-- compile the project
-- enter the path where to unzip TOMCAT
+	- download project
+	- open the project in the development environment (ECLIPSE or others)
+	- compile the project
+	- enter the path where to unzip TOMCAT
 
 ## Author
 	student: Petro Badz
